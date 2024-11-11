@@ -11,7 +11,6 @@
     <groupId>org.example</groupId>
     <artifactId>Authentication</artifactId>
     <version>v2.0</version>
-         <feature-name>test1</feature-name>
     <name>Authentication</name>
     <description>Authentication</description>
     <url/>
